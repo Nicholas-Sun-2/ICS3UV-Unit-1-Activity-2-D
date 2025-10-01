@@ -6,11 +6,11 @@
  */
 
 // Printing the author's name and the courses they are taking.
-console.log("Nicholas Sun")
-console.log("ICS3UV Introduction to Computer Science")
-console.log("NBE3UR English: Understanding Contemporary First Nations, Métis, and Inuit Voices")
-console.log("GWL3OR Designing Your Future")
-console.log("SPH3UV Physics")
+console.log("Nicholas Sun");
+console.log("ICS3UV Introduction to Computer Science");
+console.log("NBE3UR English: Understanding Contemporary First Nations, Métis, and Inuit Voices");
+console.log("GWL3OR Designing Your Future");
+console.log("SPH3UV Physics");
 
-console.log("\nDone.")
+console.log("\nDone.");
 
