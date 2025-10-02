@@ -11,11 +11,11 @@ import "fmt"
 
 func main() {
 	// Happy Birthday song
-	fmt.Println("Happy birthday to you");
-	fmt.Println("Happy birthday to you");
-	fmt.Println("Happy birthday, dear Nicholas");
-	fmt.Println("Happy birthday to you.");
+	fmt.Println("Happy birthday to you")
+	fmt.Println("Happy birthday to you")
+	fmt.Println("Happy birthday, dear Nicholas")
+	fmt.Println("Happy birthday to you.")
 
-	fmt.Println("\nDone.");
+	fmt.Println("\nDone.")
 }
 
